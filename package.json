@@ -19,5 +19,9 @@
   "homepage": "https://github.com/vova-odi/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2"
   }
 }
